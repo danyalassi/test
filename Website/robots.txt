@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: https://dano-code.netlify.app/666.html
+Sitemap: https://dano-code.netlify.app/sitemap.xml
